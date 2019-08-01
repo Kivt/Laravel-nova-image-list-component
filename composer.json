@@ -1,6 +1,11 @@
 {
     "name": "vb/image-list",
+    "version": "0.0.1",
     "description": "A Laravel Nova tool.",
+    "authors": [{
+        "name": "Vitaliy Baychura",
+        "role": "Developer"
+    }],
     "keywords": [
         "laravel",
         "nova"
