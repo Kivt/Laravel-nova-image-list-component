@@ -74,7 +74,7 @@ export default {
             .catch(err => {
                 // Request error handler
                 this.disableLoading();
-                alert(err.response.data.data.error);
+                alert(err.response.data.error);
             });
         },
 
