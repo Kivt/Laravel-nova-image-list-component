@@ -4,7 +4,7 @@
 
 - Install package
 
-``composer require vb/image-list``
+``composer require vitb/image-list``
 
 - Register tool inside `app/Providers/NovaServiceProvider`
 
