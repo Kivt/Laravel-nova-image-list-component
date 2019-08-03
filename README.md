@@ -1,4 +1,4 @@
-# Laravel nova image-list component
+# Laravel nova image-list tool
 
 ## Installation
 
